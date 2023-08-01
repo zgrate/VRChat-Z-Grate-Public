@@ -1,4 +1,5 @@
 from time import time
 
-while True:
-  print('I love you!')
+def entry():
+  while True:
+    print('I love you!')
